@@ -1,7 +1,7 @@
 ---
 applications:
-- name: rfv-patterns
-  path: target/patterns-0.0.1-SNAPSHOT.jar
+- name: rabbitMQJava
+  path: target/rabbitMQJava-0.0.1-SNAPSHOT.jar
   memory: 1024M
   instances: 1
   no-route: true    
